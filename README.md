@@ -3,9 +3,7 @@
 OBS Streaming Work/Study
 
 - HDMI Dongle
-
-  - # EVanlak HDMI Dummy Plug Headless Ghost Premium Aluminum Display Emulator Light Revelation 4k Dummy Plug HDMI Plugs Headless Machines Fit Anyone with a Headless GUI Server 3rd 3840x2160@60H
-
+  - EVanlak HDMI Dummy Plug Headless Ghost Premium Aluminum Display Emulator Light Revelation 4k Dummy Plug HDMI Plugs Headless Machines Fit Anyone with a Headless GUI Server 3rd 3840x2160@60H
 - Elgato H60 X capture card
 - Steam deck OLED
 - USB-c cable (usb4)
